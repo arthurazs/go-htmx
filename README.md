@@ -6,8 +6,8 @@ Though it should work under any Operating System.
 Open the terminal and run:
 
 ```bash
-sudo apt-get install -y git  # install git
-git clone https://github.com/arthurazs/go-htmx  # download this repository
+sudo apt-get install -y git  # installs git
+git clone https://github.com/arthurazs/go-htmx  # downloads this repository
 cd go-htmx  # changes directory to the downloaded repository
 go run server.go  # runs the go server
 ```
